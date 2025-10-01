@@ -13,9 +13,6 @@
 
 ## Example Usage
 
-### Interface
-![Interface](assets/interface.png)
-
 ### Extracted Texture
 ![Texture](assets/texture.png)
 
